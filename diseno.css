@@ -4,6 +4,13 @@ body{
     margin-left: 35%;
 }
 
+.foto{
+    float: right;
+    width: 130px;
+    height: auto;
+    margin-left: 5px;
+}
+
 .a{
     text-align: center;
 }
