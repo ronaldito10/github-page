@@ -1,6 +1,6 @@
 body{
     margin: 20px;
-    width: 500px;
+    width: 450px;
     margin-left: 35%;
 }
 
@@ -8,7 +8,7 @@ body{
     float: right;
     width: 130px;
     height: auto;
-    margin-left: 5px;
+    margin-left: -25px;
 }
 
 .a{
@@ -23,7 +23,7 @@ body{
 
 .contenedor1{
     position: relative;
-    margin-left: 0%;
+    margin-left: -5%;
 }
 
 .c{
@@ -34,7 +34,7 @@ body{
 
 .contenedor2{
     position: relative;
-    margin-left: 10%;
+    margin-left: 0%;
 }
 
 .d{
@@ -44,7 +44,7 @@ body{
 }
 .contenedor3{
     position: relative;
-    margin-left: 10%;
+    margin-left: 0%;
 }
 
 .e{
@@ -55,7 +55,7 @@ body{
 
 .contenedor4{
     position: relative;
-    margin-left: 10%;
+    margin-left: 0%;
 }
 
 .f1{
