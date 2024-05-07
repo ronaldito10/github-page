@@ -6,9 +6,9 @@ body{
 
 .foto{
     float: right;
-    width: 130px;
+    width: 150px;
     height: auto;
-    margin-left: -25px;
+    margin-left: 20px;
 }
 
 .a{
